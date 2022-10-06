@@ -1,0 +1,22 @@
+while (salario >= 0):
+    nome = ""
+    salario = float
+    qtdFilhos = int
+
+iteração --> repetição do loop
+condição de parada: salario < 0
+
+EXPRESSÃO: cálculo -> operador e operando
+1) Aritmética (continhas) =====> INPUT=> Números    | OUTPUT=> Números
+op: +, -, *, /, //, %, ^, ... (//2 operandos) --> 2+2  = 4
+incremento (++) ==> x = 2;  x++ --> x=x+1 --> x += 1  ---> 
+decremento (--) ==> x = 2;  x-- --> x=x-1 --> x -= 1
+
+a = a * 2 --> a *= 2
+
+2) Relacional (comparação) ===> IN: Números | OUT: Valor lógico (True ou False)
+op: >, >=, <, <=, ==, != (//2 operandos) 5 != 4
+
+3) Lógicas ==> IN: Valor lógico | OUT: Valor Lógico
+op: and(&&), or(||) e not(!)     EX: !(2 <= 5)    -> 2 != 3
+
