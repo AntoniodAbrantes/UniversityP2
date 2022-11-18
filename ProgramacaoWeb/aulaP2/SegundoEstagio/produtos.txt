@@ -1,0 +1,12 @@
+Arroz
+2
+5,53
+Feijao
+2
+5.40
+Batata
+4
+6.00
+Macaxeira
+3
+7.0
