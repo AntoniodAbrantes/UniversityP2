@@ -17,7 +17,7 @@
             <input type="email" name="email" placeholder="Insira seu email de Usuário">
             <p>Senha</p>
             <input type="password" name="senha" placeholder="Insira a senha"><br><br>
-            <input type="submit" name="" value="Login">
+            <input type="submit" name="" value="login">
             <?php
             include('conexao.php');
 
@@ -53,7 +53,7 @@
                     }
                 }
             }
-        ?>
+            ?>
             <a href="pagina_cadastro.php">Ainda não possui conta?</a>
         </form>
    </div> 

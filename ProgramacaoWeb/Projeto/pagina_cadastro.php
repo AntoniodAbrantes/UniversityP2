@@ -23,8 +23,6 @@ include_once("conexao.php");
         }
         ?>
         <form action="cadastrar.php" method="POST">
-            <p>Nome</p>
-            <input type="text" name="nome" placeholder="Insira seu nome">
             <p>Email</p>
             <input type="email" name="email" placeholder="Insira seu email">
             <p>Senha</p>
@@ -33,6 +31,16 @@ include_once("conexao.php");
             <input type="password" name="senha" placeholder="Confirme a senha"><br><br>
             <input type="submit" value="Cadastrar">
         </form>
+        <form action="pagina_login.php">
+             <input type="submit" value="Voltar">
+        </form>
+        <br>
+        <br>
+        <br>
+        <br>
+        <?php
+            include_once("footer.html");
+        ?>
    </div> 
    <div class="box-degrade"></div>
 </body>

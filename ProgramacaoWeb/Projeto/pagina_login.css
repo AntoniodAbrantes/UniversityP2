@@ -26,9 +26,24 @@ body{
     }
 }
 
-.cadastro{
+.painel{
     width: 620px;
     height: 510px;
+    border: 2px solid #000;
+    border-radius: 80px 0px 80px 0px;
+    color: #fff;
+    background-color: rgba(0, 0, 5, 0.8);
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    box-sizing: border-box;
+    padding: 68px 28px;
+}
+
+.cadastro{
+    width: 620px;
+    height: 600px;
     border: 2px solid #000;
     border-radius: 80px 0px 80px 0px;
     color: #fff;
@@ -165,7 +180,7 @@ h1{
     margin-bottom: 21px;
 }
 
-.login input[type="email"], input[type="password"]{
+.login input[type="email"], input[type="password"], input[type="number"]{
     border: none;
     border-bottom: 1px solid white;
     background: transparent;
