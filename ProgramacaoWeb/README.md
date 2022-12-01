@@ -1,1 +1,1 @@
-
+Esse projeto consiste em fazer uma página web para um médico(a), no qual ele(a) vai utilizar esse sistema para cadastrar os pacientes e na página de listagem já vai mostrar o nome, a altura, o peso, idade e IMC já calculado do paciente. Nesse Projeto utilizamos HTMl, PHP, CSS e MySQL, todas essas tecnologias foram ministradas em sala de aula pelo o Me. Prof. Thiago Rodrigues Medeiros.
