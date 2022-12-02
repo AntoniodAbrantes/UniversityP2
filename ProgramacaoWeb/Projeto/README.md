@@ -10,21 +10,41 @@
     • As linguagens PHP, HTML e Javascript devem ser utilizadas para construção da
     aplicação.<br>
     • É permitido usar qualquer framework HTML/CSS para agilizar o desenvolvimento.<br>
+    
 2. A seguir algumas fotos de como ficou o projeto...<br>
 
-    Página de Login:
+       Página de Login:
 
   ![image](https://user-images.githubusercontent.com/103126656/205185493-44e37e26-3e96-4ac1-b553-3ba893fd70cc.png) <br>
+  
     O mouse está em cima de "Ainda não possui conta" onde o usuário irá clicar para se cadastrar.<br>
     
-    Página de Cadastro de Usuários:
+   Página de Cadastro de Usuários:
     
   ![image](https://user-images.githubusercontent.com/103126656/205185935-16581637-6750-402c-93e2-ce45b6fdada3.png) <br>
-    Nessa página o usuário consegue voltar para a página de login e consegue cadastrar seus dados. Após o cadastro ele irá logar e ir direto para a página de cadastrar o paciente, como mostra na foto a seguir: <br>
+  
+    Nessa página o usuário consegue voltar para a página de login e consegue cadastrar seus dados. Após o cadastro ele irá logar e ir direto para a página de cadastrar o paciente, como mostra na foto a seguir, Aqui o usuário tem a opção de cadastrar mais um paciente, de listar todos que ele cadastrou até agora e sair para a página de login: <br>
     
-    ![image](https://user-images.githubusercontent.com/103126656/205186534-40a0ca46-d8b6-417a-a325-3e9739347e34.png) <br>
+   ![image](https://user-images.githubusercontent.com/103126656/205186534-40a0ca46-d8b6-417a-a325-3e9739347e34.png) <br>
 
-    Aqui o usuário tem a opção de cadastrar mais um paciente, de listar todos que ele cadastrou até agora e sair para a página de login:
+    Na Página de Cadastro do paciente ele vai ter que colocar as informações de nome, peso, altura e idade assim como, vai ter a opção de voltar para a pagina anterior:
+   
+   ![image](https://user-images.githubusercontent.com/103126656/205187865-6a9368c3-1ec0-4f22-91b2-142153ecc491.png) <br>
+   
+    Na Página de listar, ele vai mostrar as informações de todos os pacientes, assim como mostra na imagem a seguir:
+    
+   ![image](https://user-images.githubusercontent.com/103126656/205189122-20944ee5-221c-48a1-adab-35e8909ccfd5.png) <br>
+   
+    Usamos o CSS para fazer toda a parte de estilização.
+    
+    Obrigado por ter lido até aqui :)
+    
+    
+    
+    
+
+   
+
     
     
     
