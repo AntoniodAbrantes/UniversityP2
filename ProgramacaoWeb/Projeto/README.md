@@ -35,7 +35,7 @@
     
    ![image](https://user-images.githubusercontent.com/103126656/205189122-20944ee5-221c-48a1-adab-35e8909ccfd5.png) <br>
    
-    Usamos o CSS para fazer toda a parte de estilização.
+    Nós Utilizamos nesse projeto todas tecnologias ministradas no primeiro e segundo período da faculdade essas foram MySQl para o banco de dados, PHP, HTML e CSS que sempre andam juntas kkk
     
     Obrigado por ter lido até aqui :)
     
