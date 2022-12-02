@@ -12,4 +12,22 @@
     • É permitido usar qualquer framework HTML/CSS para agilizar o desenvolvimento.<br>
 2. A seguir algumas fotos de como ficou o projeto...<br>
 
-  Página de Login:
+    Página de Login:
+
+  ![image](https://user-images.githubusercontent.com/103126656/205185493-44e37e26-3e96-4ac1-b553-3ba893fd70cc.png) <br>
+    O mouse está em cima de "Ainda não possui conta" onde o usuário irá clicar para se cadastrar.<br>
+    
+    Página de Cadastro de Usuários:
+    
+  ![image](https://user-images.githubusercontent.com/103126656/205185935-16581637-6750-402c-93e2-ce45b6fdada3.png) <br>
+    Nessa página o usuário consegue voltar para a página de login e consegue cadastrar seus dados. Após o cadastro ele irá logar e ir direto para a página de cadastrar o paciente, como mostra na foto a seguir: <br>
+    
+    ![image](https://user-images.githubusercontent.com/103126656/205186534-40a0ca46-d8b6-417a-a325-3e9739347e34.png) <br>
+
+    Aqui o usuário tem a opção de cadastrar mais um paciente, de listar todos que ele cadastrou até agora e sair para a página de login:
+    
+    
+    
+
+  
+  
