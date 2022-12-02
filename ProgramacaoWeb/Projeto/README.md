@@ -25,7 +25,8 @@
   
     Nessa página o usuário consegue voltar para a página de login e consegue cadastrar seus dados. 
     Após o cadastro ele irá logar e ir direto para a página de cadastrar o paciente, como mostra na foto a seguir,
-    Aqui o usuário tem a opção de cadastrar mais um paciente, de listar todos que ele cadastrou até agora e sair para a página de login: 
+    Aqui o usuário tem a opção de cadastrar mais um paciente, de listar todos que ele cadastrou até agora e sair para
+    a página de login: 
     
    ![image](https://user-images.githubusercontent.com/103126656/205186534-40a0ca46-d8b6-417a-a325-3e9739347e34.png) <br>
 
